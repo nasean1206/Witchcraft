@@ -1,3 +1,34 @@
+<html>
+	<head>
+		<title>Editorial by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+
+							<!-- Header -->
+								<header id="header">
+									<a href="index.html" class="logo"><strong>Witchcraftpedia</strong> by Sean Na</a>
+									<ul class="icons">
+										<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+										<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+										<li><a href="#" class="icon fa-snapchat-ghost"><span class="label">Snapchat</span></a></li>
+										<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+										<li><a href="#" class="icon fa-medium"><span class="label">Medium</span></a></li>
+									</ul>
+								</header>
+
 <!-- Content -->
 										<h2 id="content">Timelines</h2>
 										<p><h3><strong>European Witchcraft</strong></h3><table border="1" cellpadding="10" cellspacing="0"><tbody><tr><td bgcolor="#DEDEDE" valign="top">Year(s)</td><td>Event</td></tr><tr><td bgcolor="#DEDEDE" valign="top">B.C.E.</td><td>The Hebrew Scriptures addressed witchcraft, including Exodus 22:18 and various verses in Leviticus and Deuteronomy.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">about 200 - 500 C.E.</td><td>The <a href="https://www.thoughtco.com/what-is-the-torah-2076770" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="1">Talmud</a> described forms of punishments and execution for witchcraft</td></tr><tr><td bgcolor="#DEDEDE" valign="top">about 910</td><td>The <em>Canon Episcopi</em> was recorded by Regino of Prümm describing folk beliefs in Francia, just before the beginning of the <a href="https://www.thoughtco.com/roman-empire-map-120865" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="2">Holy Roman Empire</a>. This text influenced later canon law. It condemned <em>maleficium</em> (bad-doing) and <em>sorilegium</em> (fortune-telling), but argued that most stories of these were fantasy, and also argued that those who believed they magically flew were suffering from delusions.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">about 1140</td><td>Mater Gratian&#39;s compilation of canon law, including the <em>Canon Episcopi</em> (see &#34;about 910&#34; above), also included writings from Hrabanus Maurus and excerpts from Augustine.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">1154</td><td>John of Salisbury wrote of his skepticism about the reality of witches riding in the night.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">1230s</td><td>An Inquisition against heresy was established by the Roman Catholic Church.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">1258</td><td>Pope Alexander IV accepted that sorcery and communication with demons was a kind of heresy. This opened the possibility of the Inquisition, concerned with heresy, being involved with witchcraft investigations.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">late 13th century</td><td>In his <em>Summa Theologiae</em>, and in other writings, <a href="https://www.thoughtco.com/st-thomas-aquinas-patron-saint-124542" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="3">Thomas Aquinas</a> briefly addressed sorcery and magic. He assumed that consulting demons included making a pact with them, which was by definition, apostasy. He accepted that demons could assume the shapes of actual people; the demons&#39; acts are thus mistaken for those actual people&#39;s.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">1306 - 15</td><td>The Church moved to eliminate the <a href="https://www.thoughtco.com/the-knights-templar-warrior-monks-1789433" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="4">Knights Templar</a>. Among the charges were heresy, witchcraft and devil-worship.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">1316 - 1334</td><td>Pope John XII issued several bulls identifying sorcery with heresy and pacts with the devil.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">1317</td><td>In France, a bishop was executed for using witchcraft in an attempt to kill Pope John XXII. This was one of several assassination plots around that time against the pope or a king.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">1340s</td><td>Black Death swept through Europe, adding to the willingness of people to see conspiracies against Christendom.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">about 1450</td><td><em>Errores Gazaziorum</em>, a papal bull, identified witchcraft and heresy with the Cathars.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">1484</td><td>Pope Innocent VIII issued <em>Summis desiderantes affectibus</em>, authorizing two German monks to investigate accusations of witchcraft as heresy, threatening those who interfered with their work.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">1486</td><td>The <em><a href="https://www.thoughtco.com/malleus-maleficarum-witch-document-3530785" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="5">Malleus Maleficarum</a></em> was published.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">1500-1560</td><td>Many historians point to this period as one in which witchcraft trials -- and Protestantism -- were rising</td></tr><tr><td bgcolor="#DEDEDE" valign="top">1532</td><td><em>Constitutio Criminalis Carolina</em>, by Emperor Charles V, and affecting the whole Holy Roman Empire, declared that harmful witchcraft should be punished by death by fire; witchcraft that resulted in no harm was to be &#34;punished otherwise.&#34;</td></tr><tr><td bgcolor="#DEDEDE" valign="top">1542</td><td>English law made witchcraft a secular crime with the Witchcraft Act.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">1552</td><td>Ivan IV of Russia issued the Decree of 1552, declaring witch trials were to be civil matters rather than church matters.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">1560s and 1570s</td><td>A wave of witch hunts were launched in southern Germany.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">1563</td><td>Publication of <em>De Praestiglis Daemonum</em> by Johann Weyer, a physician to the Duke of Cleves. It argued that much of what was thought to be witchcraft was not supernatural at all, but just natural trickery.<br/><br/>The second English Witchcraft Act was passed.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">1580 - 1650</td><td>Many historians consider this the period with the largest number of witchcraft cases, with the period of 1610 - 1630 being a peak within this period.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">1580s</td><td>One of the periods of frequent witchcraft trials in England.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">1584</td><td><em>Discoverie of Witchcraft</em> was published by Reginald Scot of Kent, expressing skepticism of witchcraft claims.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">1604</td><td>Act of James I expanded punishable offenses related to witchcraft.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">1612</td><td>The Pendle witch trials in Lancashire, England, accused twelve witches. The charges included the murder of ten by witchcraft. Ten were found guilty and executed, one died in prison and one was found not guilty.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">1618</td><td>A handbook for English judges on pursuing witches was published.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">1634</td><td>Loudun witch trials in France. Ursuline nuns reported being possessed, victims of Father Urbain Grandier, who was convicted of sorcery. He was convicted despite refusing to confess even under torture. After Father Grandier was executed, the possessions continued until 1637.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">1640s</td><td>One of the periods of frequent witchcraft trials in England.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">1660</td><td>Another wave of witch trials in northern Germany.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">1682</td><td>King Louis XIV of France prohibited further witchcraft trials in that country.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">1682</td><td>Mary Trembles and Susannah Edward were hanged, the last documented witch hangings in England itself.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">1692</td><td><a href="https://www.thoughtco.com/salem-witch-trials-timeline-3530778" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="6">Salem witch trials</a> in the British colony of Massachusetts.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">1717</td><td>The last English trial for witchcraft was held; the defendant was acquitted.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">1736</td><td>The English Witchcraft Act was repealed, formally ending witch hunts and trials.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">1755</td><td>Austria ended witchcraft trials.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">1768</td><td>Hungary ended witchcraft trials.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">1829</td><td><em>Histoire de l&#39;Inquisition en France</em>by Etienne Leon de Lamothe-Langon was published, a forgery claiming massive witchcraft executions in the 14th century. The evidence was, essentially, fiction.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">1833</td><td>A Tennessee man was prosecuted for witchcraft.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">1862</td><td>French writer Jules Michelet advocated a return to goddess worship, and saw women&#39;s &#34;natural&#34; inclination to witchcraft as positive. He depicted witch hunts as Catholic persecutions.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">1893</td><td><a href="http://www.sacred-texts.com/wmn/wcs/index.htm" data-component="link" data-source="inlineLink" data-type="externalLink" data-ordinal="7" rel="nofollow">Matilda Joslyn Gage published <em>Women, Church and State</em></a> which included the figure of nine million executed as witches.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">1921</td><td><a href="http://www.sacred-texts.com/pag/wcwe/index.htm" data-component="link" data-source="inlineLink" data-type="externalLink" data-ordinal="8" rel="nofollow">Margaret Murray&#39;s <em>The Witch Cult in Western Europe</em></a> was published, her account of the witch trials. She argued that witches represented a pre-Christian &#34;old religion.&#34; Among her arguments: the Plantagenet kings were protectors of the witches, and Joan of Arc was a pagan priestess.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">1954</td><td><a href="https://www.thoughtco.com/what-is-gardnerian-wicca-2562910" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="9">Gerald Gardner</a> published <em>Witchcraft Today,</em> about witchcraft as a surviving pre-Christian pagan religion.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">20th century</td><td>Anthropologists look at the beliefs in different cultures on witchcraft, witches and sorcery.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">1970s</td><td>Modern women&#39;s movement looks at the witchcraft persecutions using a feminist lens.</td></tr><tr><td bgcolor="#DEDEDE" valign="top">December 2011</td><td>Amina Bint Abdul Halim Nassar was beheaded in Saudi Arabia for practicing witchcraft.</td></tr></tbody></table></p>
@@ -16,3 +47,109 @@
 
 						</div>
 					</div>
+<!-- Sidebar -->
+					<div id="sidebar">
+						<div class="inner">
+
+							<!-- Search -->
+								<section id="search" class="alt">
+									<form method="post" action="#">
+										<input type="text" name="query" id="query" placeholder="Search" />
+									</form>
+								</section>
+
+							<!-- Menu -->
+								<nav id="menu">
+									<header class="major">
+										<h2>Menu</h2>
+									</header>
+									<ul>
+										<li><a href="index.html">Homepage</a></li>
+										<li><a href="generic.html">About</a></li>
+										<li><span class="opener">Timelines</span>
+											<ul>
+												<li><a href="European Timeline">European</a></li>
+												<li><a href="American Timeline">American</a></li>
+											</ul>
+										</li>
+										<li>
+											<span class="opener">Specific Cases</span>
+											<ul>
+												<li><a href="#">Anne Gunther</a></li>
+												<li><a href="#">Benandanti</a></li>
+												<li><a href="#">Salem Witch Trials</a></li>
+												<li><a href="#">North Berwick Trials</a></li>
+												<li><a href="#">Benandanti</a></li>
+											</ul>
+										</li>
+										<li><a href="readings.html">Readings</a></li>
+										<li><a href="media.html">Media</a></li>
+										<li>
+											<span class="opener">Related Links</span>
+											<ul>
+												<li><a href="#">Lorem Dolor</a></li>
+												<li><a href="#">Ipsum Adipiscing</a></li>
+												<li><a href="#">Tempus Magna</a></li>
+												<li><a href="#">Feugiat Veroeros</a></li>
+											</ul>
+										</li>
+										<li><a href="#">Citations</a></li>
+									</ul>
+								</nav>
+
+							<!-- Section -->
+								<section>
+									<header class="major">
+										<h2>Ante interdum</h2>
+									</header>
+									<div class="mini-posts">
+										<article>
+											<a href="#" class="image"><img src="images/pic07.jpg" alt="" /></a>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic08.jpg" alt="" /></a>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic09.jpg" alt="" /></a>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
+										</article>
+									</div>
+									<ul class="actions">
+										<li><a href="#" class="button">More</a></li>
+									</ul>
+								</section>
+
+							<!-- Section -->
+								<section>
+									<header class="major">
+										<h2>Get in touch</h2>
+									</header>
+									<p>Sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin sed aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+									<ul class="contact">
+										<li class="fa-envelope-o"><a href="#">information@untitled.tld</a></li>
+										<li class="fa-phone">(000) 000-0000</li>
+										<li class="fa-home">1234 Somewhere Road #8254<br />
+										Nashville, TN 00000-0000</li>
+									</ul>
+								</section>
+
+							<!-- Footer -->
+								<footer id="footer">
+									<p class="copyright">&copy; <i>University of Pennsylvania.</i> All rights reserved. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+								</footer>
+
+						</div>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
