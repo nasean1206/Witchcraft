@@ -2560,6 +2560,10 @@
 			  max-width:35%;
 			  max-height:35%;
 		}
+		img.resize2 {
+			  max-width:135%;
+			  max-height:135%;
+		}
 
 		.image.left, .image.right {
 			max-width: 40%;
